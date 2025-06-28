@@ -1,0 +1,12 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "mod.addon.ahzmcaaddon.mixin",
+  "refmap": "refmap.ahzmcaaddon.json",
+  "mixins": [
+    "noburn"
+  ],
+  "client": [
+    "MixinMinecraft"
+  ],
+  "server": []
+}
